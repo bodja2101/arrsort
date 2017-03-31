@@ -1,0 +1,4 @@
+S:\kn31\ООП\Overchuk\ArraySorts\ArraySorts\bin\Debug\ArraySorts.exe
+S:\kn31\ООП\Overchuk\ArraySorts\ArraySorts\bin\Debug\ArraySorts.pdb
+S:\kn31\ООП\Overchuk\ArraySorts\ArraySorts\obj\x86\Debug\ArraySorts.exe
+S:\kn31\ООП\Overchuk\ArraySorts\ArraySorts\obj\x86\Debug\ArraySorts.pdb
